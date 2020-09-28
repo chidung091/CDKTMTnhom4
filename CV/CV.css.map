@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,iCAAkC;EAC/B,IAAK;IACF,UAAU,EAAE,OAAO",
+"sources": ["CV.scss"],
+"names": [],
+"file": "CV.css"
+}
